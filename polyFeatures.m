@@ -15,12 +15,6 @@ X_poly = zeros(numel(X), p);
 %
 % 
 
-%disp('size of X in ployFeatures is: ');
-%disp(size(X));
-for i = 1:p
- % X_poly(:, i) = X .^ p;
-endfor;
-
 
 % =========================================================================
 
